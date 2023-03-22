@@ -1,5 +1,6 @@
 # ethereum-data-streaming
-
+## Description
+This project involves streaming data gotten from a quicknode endpoint into a snowflakes database.
 
 #### Technical Steps
 1. Setup kafka locally: I setup a kafka locally for my streaming architecture and added the required jar files for connecting to snowflakes in the kafka lib directory.
